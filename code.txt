@@ -1,0 +1,8 @@
+if x=z
+write  QQ;
+m:=5+n
+else
+x:=x+1
+end
+write z*(x+y)
+
